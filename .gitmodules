@@ -1,3 +1,6 @@
 [submodule ".vscode/Jsexamples"]
 	path = .vscode/Jsexamples
 	url = https://github.com/sharvandeep/JSExamples
+[submodule "frontendproject1"]
+	path = frontendproject1
+	url = https://github.com/sharvandeep/frontendproject1
