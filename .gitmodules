@@ -1,0 +1,3 @@
+[submodule ".vscode/Jsexamples"]
+	path = .vscode/Jsexamples
+	url = https://github.com/sharvandeep/JSExamples
